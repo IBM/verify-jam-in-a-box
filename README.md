@@ -32,4 +32,7 @@ an IBMid, you can get one at: https://www.ibm.com/account/us-en/signup/register.
 
 | Lab(s)                                                       | Environment (IBM TechZone - Business Partners and IBMers only) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-Place holder | Description
+Lab environment for Verify SaaS and Verify Access on Containers|https://techzone.ibm.com/collection/verify-poc/resources
+Another lab:|https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access
+FYI - great source for TechZone ----|https://techzone.ibm.com/search?searchbox=%22verify%22&StatusFilter=Active%2CEnabled&VisibilityFilter=%5B%22IBMers%22%5D&BrandsFilter=%5B%22Security%22%5D
+
