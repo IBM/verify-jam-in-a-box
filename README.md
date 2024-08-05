@@ -10,7 +10,7 @@ This cookbook provides a step-by-step guide to setting up an IBM Security Verify
 As with any Software-as-a-Service environment, changes to the service might mean that screenshots and methods described here may differ from the current service.
 
 ## Pre-requisites
-To complete this cookbook, you will need:
+To complete this cookbook, you will need:<br>
 • An IBMid is required when you sign up for the IBM Security Verify trial. If you do not have 
 an IBMid, you can get one at: https://www.ibm.com/account/us-en/signup/register.html
 • An e-mail address to receive initial account information and e-mail One-Time Passwords. 
