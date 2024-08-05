@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The [BM Security Verify Proof of Technology]([https://github.com/IBM/cp4ba-client-onboarding-scenario](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789)) is an end-to-end PoT guide for IBM Security Verify SaaS.
+The [BM Security Verify Proof of Technology](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789) is an end-to-end PoT guide for IBM Security Verify SaaS.
 
 This guide covers various scenarios from Verify tenant creation, single sign-on, multi-factor authentication and adaptive access configuration. 
 
