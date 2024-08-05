@@ -30,3 +30,8 @@ Jam-in-a-Box removes hurdles to Business Automation and Digital Labor adoption t
 1. Demo - 
 2. PoX - 
 
+## Labs to Environments Mapping
+
+| Lab(s)                                                       | Environment (IBM TechZone - Business Partners and IBMers only) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+Place holder | Description
