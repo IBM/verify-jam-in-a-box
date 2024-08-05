@@ -1,14 +1,14 @@
 # Jam-in-a-Box for IBM Security Verify SaaS
 ## Quick Start
 
-1. Select the lab(s) you are interested in in the left column of the table of the [Labs to Environments Mapping](#labs-to-environments-mapping) section
+1. Select the lab(s) you are interested in the left column of the table of the [Labs to Environments Mapping](#labs-to-environments-mapping) section
 2. Follow the instructions in the right column of the table to request the appropriate environment
 
 
 
 ## Introduction
 
-The [BM Security Verify Proof of Technology](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789) is an end-to-end PoT guide for IBM Security Verify SaaS.
+The [IBM Security Verify Proof of Technology](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789) is an end-to-end PoT guide for IBM Security Verify SaaS.
 
 This guide covers various scenarios from Verify tenant creation, single sign-on, multi-factor authentication and adaptive access configuration. 
 
