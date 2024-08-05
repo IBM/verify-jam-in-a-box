@@ -3,12 +3,10 @@
 
 ## Introduction
 
-The [IBM Security Verify Proof of Technology](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789) is an end-to-end PoT guide for IBM Security Verify SaaS.
-
+The [IBM Security Verify Proof of Technology](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789) guide that assists Sales Techs to showcase IBM Security Verify SaaS.
 This guide covers various scenarios from Verify tenant creation, single sign-on, multi-factor authentication and adaptive access configuration. 
 
-Labs for each capability provide an easy way to gain familiarity with the development aspects to build the respective parts of the Client Onboarding solution.
-
+Labs provide an easy way to gain familiarity with the development aspects to build the respective parts of the Client Onboarding solution.
 Jam-in-a-Box allows intereseted parties to become familiar with IBM Security Verify SaaS via the sharing of technical enablement. The material prepared by IBM TechZone allows for hands-on technical experince and familiarity with Verify SaaS.
 
 
