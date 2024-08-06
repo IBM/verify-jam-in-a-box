@@ -21,26 +21,3 @@ an IBMid, you can get one at: https://www.ibm.com/account/us-en/signup/register.
 • An e-mail address to receive initial account information and e-mail One-Time Passwords. You can use a single e-mail address for all requirements in this document.<br>
 • A mobile number to receive SMS One-Time Passwords. You can use a single number for all requirements in this document
 
-## Use Cases for Jam-in-a-Box
-
-### 1. Technical Enablement
-
-1. Self-enablement - 
-2. Client-enablement - 
-
-### 2. Demo/PoX
-
-1. Demo - 
-2. PoX - 
-
-## Labs to Environments Mapping
-
-| Lab(s)                                                       | Environment (IBM TechZone - Business Partners and IBMers only) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-Lab environment for Verify SaaS and Verify Access on Containers|https://techzone.ibm.com/collection/verify-poc/resources
-Another lab:|https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access
-FYI - great source for TechZone ----|https://techzone.ibm.com/search?searchbox=%22verify%22&StatusFilter=Active%2CEnabled&VisibilityFilter=%5B%22IBMers%22%5D&BrandsFilter=%5B%22Security%22%5D
-
-
-Cookbook guide -
-https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789
