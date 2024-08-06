@@ -3,15 +3,15 @@
 
 ## Introduction
 
-The [IBM Security Verify Proof of Technology](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access) course is written facilitate Sales Techs to showcase IBM Security Verify SaaS.<br>
+The [IBM Security Verify Proof of Technology](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access) material is meant to facilitate IBM Security Verify SaaS showcase.<br>
 Jam-in-a-Box allows intereseted parties to gain expertise with IBM Security Verify SaaS through hands-on practice. <br>
 You will learn IBM Security Verify SaaS capabilites focused in SSO, MFA, Adaptive Access, API, Administrator roles management, synchronization with IBM Security Verify Bridge for Directory Sync, authentication with IBM Security Verify Bridge for Authentication, provisioning to SaaS / SCIM, provisioning to OnPremise with IBM Security Verify Bridge for Provisioning, recertification campaigns, WebHooks, reports, plus much more. The material was prepared by IBM TechZone.<br>
 
-Contains all necesary mateirals to showcase IBM Security Verify SaaS and includes: <br>
+The material contained includes: <br>
 [Verify SaaS Hands On Lab guide](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789)
 provides a step-by-step guide to setting up an IBM Security Verify tenant and exploring its single sign-on (SSO), multi-factor authentication (MFA) and Adaptive Access (AA2) capabilities. <br>
 [Verify SaaS Hands On Lab presentation](https://ibm.seismic.com/app?ContentId=6d21a8ca-7c49-4ec7-a7e0-dafed0cd3199) to be used to present product to customer. <br>
-POT IBM Security Verify SaaS (Access & CIAM) which allows for system reservations to aid in the Proof of Technology.
+[POT IBM Security Verify SaaS (Access & CIAM)](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access) which allows for system reservations to aid in the Proof of Technology.
 
 
 ## Pre-requisites
