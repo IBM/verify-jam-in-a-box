@@ -4,7 +4,8 @@
 ## Introduction
 
 The [IBM Security Verify Proof of Technology](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access) course is written facilitate Sales Techs to showcase IBM Security Verify SaaS.<br>
-Jam-in-a-Box allows intereseted parties to gain expertise with IBM Security Verify SaaS through hands-on practice. The material was prepared by IBM TechZone.
+Jam-in-a-Box allows intereseted parties to gain expertise with IBM Security Verify SaaS through hands-on practice. The material was prepared by IBM TechZone.<br>
+You will learn IBM Security Verify SaaS capabilites focused in SSO, MFA, Adaptive Access, API, Administrator roles management, synchronization with IBM Security Verify Bridge for Directory Sync, authentication with IBM Security Verify Bridge for Authentication, provisioning to SaaS / SCIM, provisioning to OnPremise with IBM Security Verify Bridge for Provisioning, recertification campaigns, WebHooks, reports, plus much more. <br>
 
 This course contains all necesary mateirals to showcase IBM Security Verify SaaS and includes: <br>
 
