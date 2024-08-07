@@ -1,6 +1,6 @@
 # Jam-in-a-Box for IBM Security Verify SaaS
 
-reagan
+
 ## Introduction
 
 The [IBM Security Verify Proof of Technology](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access) material is meant to facilitate IBM Security Verify SaaS showcase.<br>
