@@ -1,6 +1,5 @@
 # Jam-in-a-Box for IBM Security Verify SaaS
 
-#test
 
 ## Introduction
 
