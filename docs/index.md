@@ -12,4 +12,7 @@ The intent for this "Jam-in-a-Box" is to bring various technical aids that allow
 
 | Product                                                       | Content Description  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [IBM Security Verify SaaS](https://github.com/IBM/verify-jam-in-a-box/tree/main/docs/chapter1.md) | PoT, presentation slides and environment request link for ISV SaaS |
+| [IBM Security Verify SaaS](https://ibm.github.io/verify-jam-in-a-box/chapter1/) | PoT, presentation slides and environment request link for ISV SaaS |
+| [IBM Security Verify Access](https://ibm.github.io/verify-jam-in-a-box/chapter2/) | PoT, presentation slides and environment request link for ISV SaaS |
+| [IBM Security Verify Governance](https://ibm.github.io/verify-jam-in-a-box/chapter3/) | PoT, presentation slides and environment request link for ISV SaaS |
+| [IBM Security Verify Directory](https://ibm.github.io/verify-jam-in-a-box/chapter4/) | PoT, presentation slides and environment request link for ISV SaaS |
