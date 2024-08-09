@@ -1,23 +1,15 @@
-# Jam-in-a-Box for IBM Security Verify SaaS
-XXXXXXXXXXXX
+# Introduction
 
 ## Introduction
 
-The [IBM Security Verify Proof of Technology](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access) material is meant to facilitate IBM Security Verify SaaS showcase.<br>
-Jam-in-a-Box allows intereseted parties to gain expertise with IBM Security Verify SaaS through hands-on practice. <br><br>
-You will learn IBM Security Verify SaaS capabilites focused in SSO, MFA, Adaptive Access, API, Administrator roles management, synchronization with IBM Security Verify Bridge for Directory Sync, authentication with IBM Security Verify Bridge for Authentication, provisioning to SaaS / SCIM, provisioning to OnPremise with IBM Security Verify Bridge for Provisioning, recertification campaigns, WebHooks, reports, plus much more. The material was prepared by IBM TechZone.<br>
+This page provides education and demo material for various IBM Security Verify products.
+The intent for this "Jam-in-a-Box" is to bring various technical aids that allow user to get their hands on product environments and scenarios.
 
-• [Verify SaaS Hands On Lab guide](https://ibm.seismic.com/app?ContentId=510d65b5-e15c-4e55-b011-1afeaeaf9789)<br>
-The guide provides a step-by-step guide to setting up an IBM Security Verify tenant and exploring its single sign-on (SSO), multi-factor authentication (MFA) and Adaptive Access (AA2) capabilities. <p>
-• [Verify SaaS Hands On Lab presentation](https://ibm.seismic.com/app?ContentId=6d21a8ca-7c49-4ec7-a7e0-dafed0cd3199)<br> 
-Presentation discussing lab. <p>
-• [POT IBM Security Verify SaaS (Access & CIAM)](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access)<br>
-This section links to the reservation system needed for this Proof of Technology.
+## Quick Start
 
+1. Select the Verify products you are interested in in the left column of the table below.
+2. Description for the technical material contained for the product can be found on the right side column.
 
-## Pre-requisites
-To complete this cookbook, you will need:<br>
-<i>• An IBMid is required when you sign up for the IBM Security Verify trial. <br><p>If you do not have 
-an IBMid, you can get one at: https://www.ibm.com/account/us-en/signup/register.html <br>
-• An e-mail address to receive initial account information and e-mail One-Time Passwords. You can use a single e-mail address for all requirements in this document.<br>
-• A mobile number to receive SMS One-Time Passwords. You can use a single number for all requirements in this document
+| Product                                                       | Content Description  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [IBM Security Verify SaaS](https://github.com/IBM/verify-jam-in-a-box/tree/main/docs/chapter1.md) | PoT, presentation slides and environment request link for ISV SaaS |
