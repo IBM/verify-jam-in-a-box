@@ -3,12 +3,12 @@
 ## Introduction
 
 This page provides education and demo material for various IBM Security Verify products.
-The intent for this "Jam-in-a-Box" is to bring various technical aids that allow user to get their hands on product environments and scenarios.
+The intent for this "Jam-in-a-Box" is to bring various technical aids that allow the user to get hands-on-product environments and scenarios experience.
 
 ## Quick Start
 
-1. Select the Verify products you are interested in in the left column of the table below.
-2. Description for the technical material contained for the product can be found on the right side column.
+1. Select the Verify products of interest from the left column on the table below.
+2. Description for the technical material contained for the product can be found on the right-side column.
 
 | Product                                                       | Content Description  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
