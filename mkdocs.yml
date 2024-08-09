@@ -1,3 +1,4 @@
 site_name: Jam-in-a-Box for IBM Security Verify SaaS
 theme:
   name: material
+  language: en
