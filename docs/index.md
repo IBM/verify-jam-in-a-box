@@ -1,6 +1,5 @@
 # Introduction
-
-## Introduction
+ 
 
 This page provides education and demo material for various IBM Security Verify scenarios.
 The intent for this "Jam-in-a-Box" is to bring various technical aids that allow the user to get hands-on-product environments and scenarios experience.
