@@ -1,4 +1,4 @@
-# IBM Security Verify SaaS
+# IBM Security Verify SaaS stand alone scenario
 
 
 The [IBM Security Verify Proof of Technology](https://techzone.ibm.com/collection/pot-isv/journey-po-t-ibm-security-verify-saa-s-access) material is meant to facilitate IBM Security Verify SaaS showcase.<br>
