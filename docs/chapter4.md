@@ -1,3 +1,3 @@
 # IBM Security Verify Directory
 
-Future home for ISVD material
+Future home for  material
