@@ -1,4 +1,4 @@
-# IBM Security Verify SaaS with Access integration scenario
+# Lab environment for Verify SaaS and Verify Access on Containers
 
 
 [Lab environment for Verify SaaS and Verify Access on Containers](https://techzone.ibm.com/collection/verify-poc/resources)
